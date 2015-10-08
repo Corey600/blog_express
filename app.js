@@ -37,5 +37,3 @@ if(require.main === module) {
     exports.shutdown = shutdown;
     exports.port = app.get('port');
 }
-
-
